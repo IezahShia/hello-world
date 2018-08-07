@@ -1,6 +1,5 @@
 # hello-world
-first example <br>
-new branch for branch 3 
+first example 
 <br>
 <table>
   <tr>
@@ -10,3 +9,15 @@ new branch for branch 3
     <td>Taco 1</td>
   </tr>
 </table>
+
+<ul>
+  <li>Taco</li>
+  <li>Burger</li>
+  <li>Fries</li>
+</ul>
+
+<ol>
+  <li>McFlurry</li>
+  <li>Sundae</li>
+  <li>Cone</li>
+</ol>
